@@ -57,12 +57,12 @@ If you want to customize Tailwind CSS, follow these steps:
 
 ### Homepage
 ![Homepage](screenshot1.png)
-![Homepage](screenshot(2).png)
-![Homepage](screenshot(3).png)
-![Homepage](screenshot(4).png)
+![Homepage](screenshot2.png)
+![Homepage](screenshot3.png)
+![Homepage](screenshot4.png)
 
 ### Responsive Design
-![Mobile View](screenshot(5).png)
+![Mobile View](screenshot5.png)
 
 ## Contributing
 
