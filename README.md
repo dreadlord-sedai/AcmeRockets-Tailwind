@@ -54,7 +54,15 @@ If you want to customize Tailwind CSS, follow these steps:
 
 ## Screenshots
 
-Include relevant screenshots of your project to showcase the design.
+
+### Homepage
+![Homepage](screenshot1.png)
+![Homepage](screenshot(2).png)
+![Homepage](screenshot(3).png)
+![Homepage](screenshot(4).png)
+
+### Responsive Design
+![Mobile View](screenshot(5).png)
 
 ## Contributing
 
@@ -67,6 +75,6 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or suggestions, feel free to reach out:
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [dreadlord_sedai](https://github.com/dreadlord-sedai)
+- Email: dahamifabbio@gmail.com
 
