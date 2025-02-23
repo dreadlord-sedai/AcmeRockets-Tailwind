@@ -16,6 +16,15 @@ Acme Rockets Tailwind is a simple project created to learn and practice the Tail
 - Node Js
 - Tailwind CSS
 
+<p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40"/> &nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40"/> &nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="40"/> &nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/>
+
+</p>
+      
+
 ## Installation & Usage
 
 1. Clone the repository:
